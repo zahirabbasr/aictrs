@@ -1,0 +1,25 @@
+{
+  "Data": {
+    "AuthorizedRecievers": [
+      "18018081746",
+      "18018081747",
+      "18018081748"
+    ],
+    "Transactions": [
+      {
+        "Project": "DebtFreeCenter",
+        "TransactionAmount": 100.0,
+        "ReceiverPerson": "18018081746",
+        "GiverPersonContactNumber": "18018081748",
+        "EntryDatetime": "2017/12/25 09:19 PM -07:00"
+      },
+      {
+        "Project": "DebtFreeCenter",
+        "TransactionAmount": 200.0,
+        "ReceiverPerson": "18018081748",
+        "GiverPersonContactNumber": "18018082000",
+        "EntryDatetime": "2017/12/30 06:39 PM -07:00"
+      }
+    ]
+  }
+}

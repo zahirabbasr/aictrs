@@ -1,0 +1,9 @@
+C:\Users\a6n4qzz\documents\visual studio 2017\Projects\RecordTransaction\RecordTransaction\bin\Release\netcoreapp1.1\RecordTransaction.deps.json
+C:\Users\a6n4qzz\documents\visual studio 2017\Projects\RecordTransaction\RecordTransaction\bin\Release\netcoreapp1.1\RecordTransaction.runtimeconfig.json
+C:\Users\a6n4qzz\documents\visual studio 2017\Projects\RecordTransaction\RecordTransaction\bin\Release\netcoreapp1.1\RecordTransaction.runtimeconfig.dev.json
+C:\Users\a6n4qzz\documents\visual studio 2017\Projects\RecordTransaction\RecordTransaction\bin\Release\netcoreapp1.1\RecordTransaction.dll
+C:\Users\a6n4qzz\documents\visual studio 2017\Projects\RecordTransaction\RecordTransaction\bin\Release\netcoreapp1.1\RecordTransaction.pdb
+C:\Users\a6n4qzz\documents\visual studio 2017\Projects\RecordTransaction\RecordTransaction\obj\Release\netcoreapp1.1\RecordTransaction.csprojResolveAssemblyReference.cache
+C:\Users\a6n4qzz\documents\visual studio 2017\Projects\RecordTransaction\RecordTransaction\obj\Release\netcoreapp1.1\RecordTransaction.AssemblyInfo.cs
+C:\Users\a6n4qzz\documents\visual studio 2017\Projects\RecordTransaction\RecordTransaction\obj\Release\netcoreapp1.1\RecordTransaction.dll
+C:\Users\a6n4qzz\documents\visual studio 2017\Projects\RecordTransaction\RecordTransaction\obj\Release\netcoreapp1.1\RecordTransaction.pdb

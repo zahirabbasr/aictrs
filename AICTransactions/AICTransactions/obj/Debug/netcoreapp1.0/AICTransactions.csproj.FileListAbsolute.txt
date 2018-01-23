@@ -1,0 +1,14 @@
+C:\Users\a6n4qzz\documents\visual studio 2017\Projects\RecordTransaction\RecordTransaction\bin\Debug\netcoreapp1.0\AICTransactions.deps.json
+C:\Users\a6n4qzz\documents\visual studio 2017\Projects\RecordTransaction\RecordTransaction\bin\Debug\netcoreapp1.0\AICTransactions.runtimeconfig.json
+C:\Users\a6n4qzz\documents\visual studio 2017\Projects\RecordTransaction\RecordTransaction\bin\Debug\netcoreapp1.0\AICTransactions.runtimeconfig.dev.json
+C:\Users\a6n4qzz\documents\visual studio 2017\Projects\RecordTransaction\RecordTransaction\obj\Debug\netcoreapp1.0\AICTransactions.csprojResolveAssemblyReference.cache
+C:\Users\a6n4qzz\documents\visual studio 2017\Projects\RecordTransaction\RecordTransaction\obj\Debug\netcoreapp1.0\AICTransactions.AssemblyInfo.cs
+C:\Users\a6n4qzz\Documents\Visual Studio 2017\Projects\AICTransaction\AICTransactions\bin\Debug\netcoreapp1.0\AICTransactions.deps.json
+C:\Users\a6n4qzz\Documents\Visual Studio 2017\Projects\AICTransaction\AICTransactions\bin\Debug\netcoreapp1.0\AICTransactions.runtimeconfig.json
+C:\Users\a6n4qzz\Documents\Visual Studio 2017\Projects\AICTransaction\AICTransactions\bin\Debug\netcoreapp1.0\AICTransactions.runtimeconfig.dev.json
+C:\Users\a6n4qzz\Documents\Visual Studio 2017\Projects\AICTransaction\AICTransactions\bin\Debug\netcoreapp1.0\AICTransactions.dll
+C:\Users\a6n4qzz\Documents\Visual Studio 2017\Projects\AICTransaction\AICTransactions\bin\Debug\netcoreapp1.0\AICTransactions.pdb
+C:\Users\a6n4qzz\Documents\Visual Studio 2017\Projects\AICTransaction\AICTransactions\obj\Debug\netcoreapp1.0\AICTransactions.AssemblyInfo.cs
+C:\Users\a6n4qzz\Documents\Visual Studio 2017\Projects\AICTransaction\AICTransactions\obj\Debug\netcoreapp1.0\AICTransactions.dll
+C:\Users\a6n4qzz\Documents\Visual Studio 2017\Projects\AICTransaction\AICTransactions\obj\Debug\netcoreapp1.0\AICTransactions.pdb
+C:\Users\a6n4qzz\Documents\Visual Studio 2017\Projects\AICTransaction\AICTransactions\obj\Debug\netcoreapp1.0\AICTransactions.csprojResolveAssemblyReference.cache

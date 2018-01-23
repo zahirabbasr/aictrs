@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="AICTransactions" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\a6n4qzz\\Documents\\Visual\ Studio\ 2017\\Projects\\AICTransaction\\AICTransactions\\obj\\Release\\netcoreapp1\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
